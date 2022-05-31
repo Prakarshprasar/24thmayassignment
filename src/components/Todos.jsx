@@ -78,7 +78,7 @@ const Todos = () => {
           <div className={style.list} key={todo.id}>
             <input type="checkbox" />
             <span>{todo.value}</span>
-            <button onClick={()=>{storejson(todo)}}>X</button>
+            <button onClick={()=>{storejson(todo)}}>Save</button>
           </div>
         ))}
       </div>
