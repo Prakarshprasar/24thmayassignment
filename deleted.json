@@ -1,0 +1,19 @@
+{
+  "deleted": [
+    {
+      "value": "Prakarsh",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "value": "bhanu",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "value": "hey",
+      "isCompleted": false,
+      "id": 4
+    }
+  ]
+}
